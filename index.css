@@ -1,0 +1,41 @@
+body{
+	font-size: 100%;
+}
+h1{
+	
+	font-size: 60px;
+	font-family: Times New Roman;
+	color: black;
+	overflow: auto;
+}
+p{
+	overflow: auto;
+	font-family: Times New Roman;
+	line-height: 40px;
+	color: black;
+}
+
+.imagenes{
+	border-radius:5px;
+	line-height: 50px;
+	align: center;
+}
+
+mark{
+	background-color: white;
+}
+
+iframe{
+	position: absolute;
+	left: 27%;
+}
+
+.p1{
+	position: absolute;
+	left: 35%;
+	top: 120%;
+}
+
+.imagenesfinal{
+	border-radius:10px;
+}
